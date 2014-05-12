@@ -1,0 +1,1409 @@
+TPolla Mundialista
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Info.plist /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Polla\ Mundialista-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Script-304B58A110DAC018002A0835.sh
+cCpResource Polla\ Mundialista/Resources/icons/icon-76.png build/emulator/Polla\ Mundialista.app/icon-76.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-40@2x.png build/emulator/Polla\ Mundialista.app/icon-40@2x.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-72.png build/emulator/Polla\ Mundialista.app/icon-72.png
+cCpResource Polla\ Mundialista/Resources/icons/icon.png build/emulator/Polla\ Mundialista.app/icon.png
+cCpResource Polla\ Mundialista/Resources/icons/icon@2x.png build/emulator/Polla\ Mundialista.app/icon@2x.png
+cCopyStringsFile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/en.lproj/Localizable.strings Polla\ Mundialista/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/MainViewController.xib
+cCpResource Polla\ Mundialista/Resources/icons/icon-50.png build/emulator/Polla\ Mundialista.app/icon-50.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-60@2x.png build/emulator/Polla\ Mundialista.app/icon-60@2x.png
+cCopyStringsFile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/de.lproj/Localizable.strings Polla\ Mundialista/Resources/de.lproj/Localizable.strings
+cCpResource Polla\ Mundialista/Resources/icons/icon-small.png build/emulator/Polla\ Mundialista.app/icon-small.png
+cCpResource Polla\ Mundialista/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Polla\ Mundialista.app/Default-Landscape@2x~ipad.png
+cCpResource Polla\ Mundialista/Resources/splash/Default-Landscape~ipad.png build/emulator/Polla\ Mundialista.app/Default-Landscape~ipad.png
+cCpResource Polla\ Mundialista/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Polla\ Mundialista.app/Default-Portrait@2x~ipad.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-small@2x.png build/emulator/Polla\ Mundialista.app/icon-small@2x.png
+cCpResource Polla\ Mundialista/Resources/splash/Default-Portrait~ipad.png build/emulator/Polla\ Mundialista.app/Default-Portrait~ipad.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-40.png build/emulator/Polla\ Mundialista.app/icon-40.png
+cCpResource Polla\ Mundialista/Resources/splash/Default@2x~iphone.png build/emulator/Polla\ Mundialista.app/Default@2x~iphone.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-60.png build/emulator/Polla\ Mundialista.app/icon-60.png
+cCpResource Polla\ Mundialista/Resources/splash/Default~iphone.png build/emulator/Polla\ Mundialista.app/Default~iphone.png
+cCpResource Polla\ Mundialista/Resources/splash/Default-568h@2x~iphone.png build/emulator/Polla\ Mundialista.app/Default-568h@2x~iphone.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-50@2x.png build/emulator/Polla\ Mundialista.app/icon-50@2x.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-76@2x.png build/emulator/Polla\ Mundialista.app/icon-76@2x.png
+cCpResource Polla\ Mundialista/Resources/icons/icon-72@2x.png build/emulator/Polla\ Mundialista.app/icon-72@2x.png
+cProcessPCH /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch.pch Polla\ Mundialista/Polla\ Mundialista-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/main.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/AppDelegate.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/MainViewController.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVConnection.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVReachability.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVInAppBrowser.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Polla\ Mundialista normal i386
+cGenerateDSYMFile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app.dSYM /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Polla\ Mundialista
+cTouch /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005348247D0000000000000198
+t1397236861
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533E283000000000000003B4
+t1396582448
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533E2837000000000000019E
+t1396582455
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000533E28390000000000484210
+t1396582457
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000533E28390000000000098030
+t1396582457
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000533E28380000000000059340
+t1396582456
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533E283A00000000005B82F0
+t1396582458
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348243D0000000000446820
+t1397236797
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000533E283900000000000F1A80
+t1396582457
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000533E283A000000000013B8C0
+t1396582458
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533E283B000000000088D8C0
+t1396582459
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000533E283C00000000001BE790
+t1396582460
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000533E283D00000000001081C0
+t1396582461
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533E28400000000001F1DE10
+t1396582464
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000533E284B00000000002BC360
+t1396582475
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533E28520000000000002338
+t1396582482
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000533E2853000000000008D370
+t1396582483
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533E28520000000000392E20
+t1396582482
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005339D43300000000000141F0
+t1396298803
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533E28530000000000014A80
+t1396582483
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533E28530000000000033BA0
+t1396582483
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000533E2853000000000001CFB0
+t1396582483
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000533E2853000000000001B2B0
+t1396582483
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000533E285300000000000C9570
+t1396582483
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533E28530000000000063280
+t1396582483
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533E28530000000000008880
+t1396582483
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533E28530000000000015080
+t1396582483
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000533E285300000000000230F0
+t1396582483
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000533E2853000000000000E380
+t1396582483
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533E28530000000000089380
+t1396582483
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533E28530000000000017320
+t1396582483
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533E28530000000000039CD0
+t1396582483
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000533E2853000000000000B0B0
+t1396582483
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533E28530000000000167E80
+t1396582483
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000533E285300000000000106A0
+t1396582483
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000533E2853000000000001CE40
+t1396582483
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000533E285300000000000740C0
+t1396582483
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000533E2853000000000006CA60
+t1396582483
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000533E2853000000000001BAD0
+t1396582483
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533E28530000000000084A20
+t1396582483
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005348243D000000000000514C
+t1397236797
+s20812
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/AppDelegate.h
+c00000000536C048D00000000000005C7
+t1399587981
+s1479
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/AppDelegate.m
+c00000000536C048D00000000000013B9
+t1399587981
+s5049
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.h
+c00000000536C048D00000000000004D7
+t1399587981
+s1239
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.m
+c00000000536C048D0000000000001272
+t1399587981
+s4722
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.xib
+c00000000536C048D0000000000001759
+t1399587981
+s5977
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m
+c00000000536D1BAF0000000000009ADE
+t1399659439
+s39646
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.h
+c00000000536C306E0000000000000446
+t1399599214
+s1094
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m
+c00000000536C306E0000000000001092
+t1399599214
+s4242
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.h
+c00000000536C306E0000000000000FF4
+t1399599214
+s4084
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m
+c00000000536C306E00000000000026F6
+t1399599214
+s9974
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Info.plist
+c00000000536D1BB900000000000009DA
+t1399659449
+s2522
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch
+c00000000536C048D00000000000003D3
+t1399587981
+s979
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/de.lproj/Localizable.strings
+c00000000536C048D00000000000004C0
+t1399587981
+s1216
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/en.lproj/Localizable.strings
+c00000000536C048D00000000000004AB
+t1399587981
+s1195
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-40.png
+c00000000536C048D0000000000000FF2
+t1399587981
+s4082
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-40@2x.png
+c00000000536C048D0000000000001CF3
+t1399587981
+s7411
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-50.png
+c00000000536C048D000000000000130A
+t1399587981
+s4874
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-50@2x.png
+c00000000536C048D000000000000258B
+t1399587981
+s9611
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-60.png
+c00000000536C048D00000000000016B3
+t1399587981
+s5811
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-60@2x.png
+c00000000536C048D0000000000002E94
+t1399587981
+s11924
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-72.png
+c00000000536C048D0000000000001350
+t1399587981
+s4944
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-72@2x.png
+c00000000536C048D0000000000002DBA
+t1399587981
+s11706
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-76.png
+c00000000536C048D0000000000001B71
+t1399587981
+s7025
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-76@2x.png
+c00000000536C048D0000000000003B9E
+t1399587981
+s15262
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-small.png
+c00000000536C048D0000000000000CDE
+t1399587981
+s3294
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon-small@2x.png
+c00000000536C048D00000000000015E8
+t1399587981
+s5608
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon.png
+c00000000536C048D0000000000000F3E
+t1399587981
+s3902
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/icons/icon@2x.png
+c00000000536C048D0000000000001EBD
+t1399587981
+s7869
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/splash/Default-568h@2x~iphone.png
+c00000000536C048D00000000000085B1
+t1399587981
+s34225
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000536C048D0000000000033D0A
+t1399587981
+s212234
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/splash/Default-Landscape~ipad.png
+c00000000536C048D00000000000166A2
+t1399587981
+s91810
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000536C048D0000000000033F7C
+t1399587981
+s212860
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/splash/Default-Portrait~ipad.png
+c00000000536C048D0000000000016641
+t1399587981
+s91713
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/splash/Default@2x~iphone.png
+c00000000536C048D0000000000007323
+t1399587981
+s29475
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Resources/splash/Default~iphone.png
+c00000000536C048D000000000000289A
+t1399587981
+s10394
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/main.m
+c00000000536C048D0000000000000463
+t1399587981
+s1123
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/AppDelegate.o
+t1399659477
+s74012
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVConnection.o
+t1399659477
+s56204
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVInAppBrowser.o
+t1399659478
+s218800
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVReachability.o
+t1399659477
+s20652
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/MainViewController.o
+t1399659477
+s51592
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/Polla Mundialista.LinkFileList
+c00000000536D1BC10000000000000400
+t1399659457
+s1024
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/main.o
+t1399659477
+s3012
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Script-304B58A110DAC018002A0835.sh
+c00000000536C04A0000000000000002D
+t1399588000
+s45
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app
+t1399659479
+s1020
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app.dSYM
+t1399606479
+s102
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Default-568h@2x~iphone.png
+t1399588000
+s34225
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Default-Landscape@2x~ipad.png
+t1399588000
+s212234
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Default-Landscape~ipad.png
+t1399588000
+s91810
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Default-Portrait@2x~ipad.png
+t1399588000
+s212860
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Default-Portrait~ipad.png
+t1399588000
+s91713
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Default@2x~iphone.png
+t1399588000
+s29475
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Default~iphone.png
+t1399588000
+s10394
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Info.plist
+t1399659457
+s1294
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/MainViewController.nib
+t1399659470
+s836
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/PkgInfo
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Polla Mundialista
+t1399659479
+s389056
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/de.lproj/Localizable.strings
+t1399588000
+s280
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/en.lproj/Localizable.strings
+t1399588000
+s166
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-40.png
+t1399588000
+s4082
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-40@2x.png
+t1399588000
+s7411
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-50.png
+t1399588000
+s4874
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-50@2x.png
+t1399588000
+s9611
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-60.png
+t1399588000
+s5811
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-60@2x.png
+t1399588000
+s11924
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-72.png
+t1399588000
+s4944
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-72@2x.png
+t1399588000
+s11706
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-76.png
+t1399588000
+s7025
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-76@2x.png
+t1399588000
+s15262
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-small.png
+t1399588000
+s3294
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon-small@2x.png
+t1399588000
+s5608
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon.png
+t1399588000
+s3902
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/icon@2x.png
+t1399588000
+s7869
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+c00000000536C049F0000000000000CFB
+t1399587999
+s3323
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+c00000000536C049F00000000000008BA
+t1399587999
+s2234
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+c00000000536C049F00000000000004E2
+t1399587999
+s1250
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+c00000000536C049F0000000000000503
+t1399587999
+s1283
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+c00000000536C049F00000000000007E6
+t1399587999
+s2022
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+c00000000536C049F0000000000000892
+t1399587999
+s2194
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+c00000000536C049F0000000000000C13
+t1399587999
+s3091
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+c00000000536C049F0000000000000408
+t1399587999
+s1032
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+c00000000536C049F0000000000000ACC
+t1399587999
+s2764
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+c00000000536C049F00000000000004B4
+t1399587999
+s1204
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+c00000000536C049F00000000000003A0
+t1399587999
+s928
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a
+c00000000536C04A000000000000D3978
+t1399588000
+s866680
+
+N/usr/lib/libSystem.B.dylib
+c000000005339D422000000000000E6D0
+t1396298786
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005339D4330000000000012A00
+t1396298803
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005339D412000000000002E320
+t1396298770
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005339D4220000000000021860
+t1396298786
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005339D432000000000001B620
+t1396298802
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005339D43200000000000BD920
+t1396298802
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005339D433000000000000A120
+t1396298803
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005339D433000000000001D550
+t1396298803
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005339D4320000000000014EE0
+t1396298802
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005339D4350000000000010380
+t1396298805
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005339D435000000000000C4C0
+t1396298805
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005339D43300000000000357A0
+t1396298803
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005339D433000000000000C070
+t1396298803
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005339D4220000000000168D00
+t1396298786
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005339D4320000000000010630
+t1396298802
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005339D434000000000001DF10
+t1396298804
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005339D4220000000000075B00
+t1396298786
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053585E18000000000007CC70
+t1398300184
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005339D42200000000000766C0
+t1396298786
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005339D4340000000000044DC0
+t1396298804
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005339D4220000000000021FA0
+t1396298786
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005339D434000000000002D920
+t1396298804
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005339D434000000000001E570
+t1396298804
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005339D429000000000000CC70
+t1396298793
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005339D42D000000000000C3F0
+t1396298797
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005339D43400000000000199F0
+t1396298804
+s104944
+
+N/var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla Mundialista-Prefix-fssxryukbzsmzgdppizjwrivrber/Polla Mundialista-Prefix.pch.pch
+t1399588002
+s5377112
+
+N/var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla Mundialista-Prefix.pch.pch
+t1399659476
+s5377652
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies62a3bc40531db941^e4142d41531db941^---0#1#1#--18"Check dependencies36"EE4970FB-DC50-4A9E-87CB-BE34AD050B39-
+
+CCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/AppDelegate.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421352277.079191
+e421352277.493162
+r1
+xCompileC
+xbuild/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/AppDelegate.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/AppDelegate.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/AppDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/AppDelegate.m245"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/AppDelegate.o [1mPolla\ Mundialista/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf75a1455531db941^363f7e55531db941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Classes/AppDelegate.m0000000000000000^4148"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/AppDelegate.o [1mPolla\ Mundialista/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/usr/local/lib/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/UninstalledProducts/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/AppDelegate.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/AppDelegate.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/AppDelegate.o36"6476745E-FE68-4D88-B516-6F893C37425C-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVConnection.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421352277.491701
+e421352277.937627
+r1
+xCompileC
+xbuild/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVConnection.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m288"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVConnection.o [1mPolla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb5fb7d55531db941^5308f055531db941^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m0000000000000000^4238"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVConnection.o [1mPolla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/usr/local/lib/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/UninstalledProducts/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVConnection.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVConnection.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVConnection.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVConnection.o36"6B4D08BE-7DB2-439A-95C6-94858EFED713-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVInAppBrowser.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421352277.493650
+e421352278.171634
+r1
+xCompileC
+xbuild/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVInAppBrowser.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+o[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:225:34: [0m[0;1;35mwarning: [0m[1m
+o      'presentModalViewController:animated:' is deprecated: first deprecated in
+o      iOS 6.0 [-Wdeprecated-declarations][0m
+o            [self.viewController presentModalViewController:nav animated:YES];
+o[0;1;32m                                 ^
+o[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: [0m[0;1;30mnote: [0m
+o      method 'presentModalViewController:animated:' declared here[0m
+o- (void)presentModalViewController:(UIViewController *)modalViewControll...
+o[0;1;32m^
+o[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:491:18: [0m[0;1;35mwarning: [0m[1m
+o      'contentStretch' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o    self.webView.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");
+o[0;1;32m                 ^
+o[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m
+o      'contentStretch' declared here[0m
+o@property(nonatomic)                 CGRect            contentStretch NS...
+o[0;1;32m                                                       ^
+o[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:504:18: [0m[0;1;35mwarning: [0m[1m
+o      'contentStretch' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o    self.spinner.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");
+o[0;1;32m                 ^
+o[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m
+o      'contentStretch' declared here[0m
+o@property(nonatomic)                 CGRect            contentStretch NS...
+o[0;1;32m                                                       ^
+o[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:532:18: [0m[0;1;35mwarning: [0m[1m
+o      'contentStretch' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o    self.toolbar.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");
+o[0;1;32m                 ^
+o[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m
+o      'contentStretch' declared here[0m
+o@property(nonatomic)                 CGRect            contentStretch NS...
+o[0;1;32m                                                       ^
+o[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:551:23: [0m[0;1;35mwarning: [0m[1m
+o      'contentStretch' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o    self.addressLabel.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");
+o[0;1;32m                      ^
+o[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m
+o      'contentStretch' declared here[0m
+o@property(nonatomic)                 CGRect            contentStretch NS...
+o[0;1;32m                                                       ^
+o[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:558:27: [0m[0;1;35mwarning: [0m[1m
+o      'minimumFontSize' is deprecated: first deprecated in iOS 6.0
+o      [-Wdeprecated-declarations][0m
+o        self.addressLabel.minimumFontSize = 10.000;
+o[0;1;32m                          ^
+o[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:45:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h:48:30: [0m[0;1;30mnote: [0m
+o      'minimumFontSize' declared here[0m
+o@property(nonatomic) CGFloat minimumFontSize NS_DEPRECATED_IOS(2_0, 6_0)...
+o[0;1;32m                             ^
+o[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:749:42: [0m[0;1;35mwarning: [0m[1m
+o      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in
+o      iOS 6.0 [-Wdeprecated-declarations][0m
+o            [[self parentViewController] dismissModalViewControllerAnima...
+o[0;1;32m                                         ^
+o[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:
+oIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m
+o      method 'dismissModalViewControllerAnimated:' declared here[0m
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...
+o[0;1;32m^
+o[0m7 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m285"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVInAppBrowser.o [1mPolla\ Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4927e55531db941^13f02b56531db941^-11972"[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:225:34: [0m[0;1;35mwarning: [0m[1m      'presentModalViewController:animated:' is deprecated: first deprecated in      iOS 6.0 [-Wdeprecated-declarations][0m            [self.viewController presentModalViewController:nav animated:YES];[0;1;32m                                 ^[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: [0m[0;1;30mnote: [0m      method 'presentModalViewController:animated:' declared here[0m- (void)presentModalViewController:(UIViewController *)modalViewControll...[0;1;32m^[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:491:18: [0m[0;1;35mwarning: [0m[1m      'contentStretch' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m    self.webView.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");[0;1;32m                 ^[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m      'contentStretch' declared here[0m@property(nonatomic)                 CGRect            contentStretch NS...[0;1;32m                                                       ^[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:504:18: [0m[0;1;35mwarning: [0m[1m      'contentStretch' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m    self.spinner.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");[0;1;32m                 ^[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m      'contentStretch' declared here[0m@property(nonatomic)                 CGRect            contentStretch NS...[0;1;32m                                                       ^[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:532:18: [0m[0;1;35mwarning: [0m[1m      'contentStretch' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m    self.toolbar.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");[0;1;32m                 ^[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m      'contentStretch' declared here[0m@property(nonatomic)                 CGRect            contentStretch NS...[0;1;32m                                                       ^[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:551:23: [0m[0;1;35mwarning: [0m[1m      'contentStretch' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m    self.addressLabel.contentStretch = CGRectFromString(@"{{0, 0}, {1, 1}}");[0;1;32m                      ^[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibility.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccessibilityAdditions.h:10:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h:10:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:288:56: [0m[0;1;30mnote: [0m      'contentStretch' declared here[0m@property(nonatomic)                 CGRect            contentStretch NS...[0;1;32m                                                       ^[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:558:27: [0m[0;1;35mwarning: [0m[1m      'minimumFontSize' is deprecated: first deprecated in iOS 6.0      [-Wdeprecated-declarations][0m        self.addressLabel.minimumFontSize = 10.000;[0;1;32m                          ^[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:45:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h:48:30: [0m[0;1;30mnote: [0m      'minimumFontSize' declared here[0m@property(nonatomic) CGFloat minimumFontSize NS_DEPRECATED_IOS(2_0, 6_0)...[0;1;32m                             ^[0m[1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:749:42: [0m[0;1;35mwarning: [0m[1m      'dismissModalViewControllerAnimated:' is deprecated: first deprecated in      iOS 6.0 [-Wdeprecated-declarations][0m            [[self parentViewController] dismissModalViewControllerAnima...[0;1;32m                                         ^[0mIn file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m:1:In file included from /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch:25:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:[1m/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: [0m[0;1;30mnote: [0m      method 'dismissModalViewControllerAnimated:' declared here[0m- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_...[0;1;32m^[0m7 warnings generated.7(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-421352278#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-421352278#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@143"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^224#33#224#33#8710#0#12"Deprecations--2@59"'contentStretch' is deprecated: first deprecated in iOS 6.0-421352278#18446744073709551615#0#1(2@30"'contentStretch' declared here-421352278#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@181"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h0000000000000000^287#55#287#55#15039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@143"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^490#17#490#17#20973#0#12"Deprecations--2@59"'contentStretch' is deprecated: first deprecated in iOS 6.0-421352278#18446744073709551615#0#1(2@30"'contentStretch' declared here-421352278#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@181"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h0000000000000000^287#55#287#55#15039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@143"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^503#17#503#17#21664#0#12"Deprecations--2@59"'contentStretch' is deprecated: first deprecated in iOS 6.0-421352278#18446744073709551615#0#1(2@30"'contentStretch' declared here-421352278#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@181"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h0000000000000000^287#55#287#55#15039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@143"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^531#17#531#17#23245#0#12"Deprecations--2@59"'contentStretch' is deprecated: first deprecated in iOS 6.0-421352278#18446744073709551615#0#1(2@30"'contentStretch' declared here-421352278#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@181"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h0000000000000000^287#55#287#55#15039#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@143"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^550#22#550#22#24405#0#12"Deprecations--2@60"'minimumFontSize' is deprecated: first deprecated in iOS 6.0-421352278#18446744073709551615#0#1(2@31"'minimumFontSize' declared here-421352278#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@182"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h0000000000000000^47#29#47#29#2750#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@143"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^557#26#557#26#24754#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-421352278#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-421352278#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@143"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^748#41#748#41#31897#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@143"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m0000000000000000^4236"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVInAppBrowser.o [1mPolla\ Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/usr/local/lib/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/UninstalledProducts/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVInAppBrowser.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVInAppBrowser.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.inappbrowser/CDVInAppBrowser.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVInAppBrowser.o36"70714425-C720-4E42-8457-6710F2E9F47D-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVReachability.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421352277.493042
+e421352277.892058
+r1
+xCompileC
+xbuild/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVReachability.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m292"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVReachability.o [1mPolla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercc5e7e55531db941^fb5de455531db941^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m0000000000000000^4250"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVReachability.o [1mPolla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/usr/local/lib/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/UninstalledProducts/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVReachability.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVReachability.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Plugins/org.apache.cordova.network-information/CDVReachability.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/CDVReachability.o36"AB6C6269-82E5-45FC-92E7-69FD09C6FAE8-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/MainViewController.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421352277.079558
+e421352277.492596
+r1
+xCompileC
+xbuild/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/MainViewController.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.m259"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/MainViewController.o [1mPolla\ Mundialista/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler81791455531db941^3a1f7e55531db941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Classes/MainViewController.m0000000000000000^4190"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/MainViewController.o [1mPolla\ Mundialista/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/usr/local/lib/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/UninstalledProducts/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/MainViewController.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/MainViewController.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/MainViewController.o36"839D492F-5AB2-4205-A5A4-02726C0B6A74-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CCompileC build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/main.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421352277.078451
+e421352277.490171
+r1
+xCompileC
+xbuild/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/main.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/main.m223"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/main.o [1mPolla\ Mundialista/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0d371455531db941^bf817d55531db941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/main.m0000000000000000^4090"[1mCompileC[0m build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/main.o [1mPolla\ Mundialista/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/usr/local/lib/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/UninstalledProducts/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/main.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/main.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/main.o36"64C2E88A-F4C6-43B4-91DD-40ADB33E5CEF-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CCompileXIB /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/MainViewController.xib
+s421352258.519556
+e421352271.139498
+r1
+xCompileXIB
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.xib
+o2014-05-09 13:17:49.443 Interface Builder Cocoa Touch Tool[45863:303] CFPreferences: user home directory at file:///Users/tecnologia/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compiling /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Classes/MainViewController.xib76"[1mCompileXIB[0m [1mPolla\ Mundialista/Classes/MainViewController.xib[0mf0198542531db941^56b6234f531db941^-235"2014-05-09 13:17:49.443 Interface Builder Cocoa Touch Tool[45863:303] CFPreferences: user home directory at file:///Users/tecnologia/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Classes/MainViewController.xib0000000000000000^887"[1mCompileXIB[0m [1mPolla\ Mundialista/Classes/MainViewController.xib[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/MainViewController.nib /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Classes/MainViewController.xib36"74128B90-578F-4027-9352-D22FE2AB28D4-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CCopyStringsFile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/de.lproj/Localizable.strings Polla\ Mundialista/Resources/de.lproj/Localizable.strings
+s421280800.943859
+e421280800.945913
+r1
+xCopyStringsFile
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/de.lproj/Localizable.strings
+xPolla Mundialista/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy Polla Mundialista/Resources/de.lproj/Localizable.strings148"[1mCopyStringsFile[0m build/emulator/Polla\ Mundialista.app/de.lproj/Localizable.strings Polla\ Mundialista/Resources/de.lproj/Localizable.strings0bb6f1203c1cb941^8331f2203c1cb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Resources/de.lproj/Localizable.strings0000000000000000^682"[1mCopyStringsFile[0m build/emulator/Polla\ Mundialista.app/de.lproj/Localizable.strings Polla\ Mundialista/Resources/de.lproj/Localizable.strings    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/de.lproj -- Polla\ Mundialista/Resources/de.lproj/Localizable.strings36"0CB48CD3-AD98-493D-8730-A34D07418A37-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCopyStringsFile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/en.lproj/Localizable.strings Polla\ Mundialista/Resources/en.lproj/Localizable.strings
+s421280800.941218
+e421280800.943301
+r1
+xCopyStringsFile
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/en.lproj/Localizable.strings
+xPolla Mundialista/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy Polla Mundialista/Resources/en.lproj/Localizable.strings148"[1mCopyStringsFile[0m build/emulator/Polla\ Mundialista.app/en.lproj/Localizable.strings Polla\ Mundialista/Resources/en.lproj/Localizable.strings1212f1203c1cb941^0f7ff1203c1cb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Resources/en.lproj/Localizable.strings0000000000000000^682"[1mCopyStringsFile[0m build/emulator/Polla\ Mundialista.app/en.lproj/Localizable.strings Polla\ Mundialista/Resources/en.lproj/Localizable.strings    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/en.lproj -- Polla\ Mundialista/Resources/en.lproj/Localizable.strings36"F4C02675-2C8E-4E4B-89AD-6D296EB0114C-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-40.png build/emulator/Polla\ Mundialista.app/icon-40.png
+s421280800.948814
+e421280800.950177
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-40.png
+xbuild/emulator/Polla Mundialista.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/Polla Mundialista.app/icon-40.png115"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-40.png build/emulator/Polla\ Mundialista.app/icon-40.pngf303f3203c1cb941^1f4bf3203c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-40.png0034d8a3deffdf42^707"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-40.png build/emulator/Polla\ Mundialista.app/icon-40.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-40.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"7FD69D25-8607-449D-9E96-ABB9E2EA0705-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-40@2x.png build/emulator/Polla\ Mundialista.app/icon-40@2x.png
+s421280800.939113
+e421280800.940833
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-40@2x.png
+xbuild/emulator/Polla Mundialista.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/Polla Mundialista.app/icon-40@2x.png121"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-40@2x.png build/emulator/Polla\ Mundialista.app/icon-40@2x.pnga67cf0203c1cb941^fbe8f0203c1cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-40@2x.png0034d8a3deffdf42^716"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-40@2x.png build/emulator/Polla\ Mundialista.app/icon-40@2x.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-40@2x.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"1C773B2F-2EB9-482E-8754-C53DA529EC44-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-50.png build/emulator/Polla\ Mundialista.app/icon-50.png
+s421280800.942285
+e421280800.943745
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-50.png
+xbuild/emulator/Polla Mundialista.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/Polla Mundialista.app/icon-50.png115"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-50.png build/emulator/Polla\ Mundialista.app/icon-50.png8b4ff1203c1cb941^af98f1203c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-50.png0034d8a3deffdf42^707"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-50.png build/emulator/Polla\ Mundialista.app/icon-50.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-50.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"120323CD-EF1D-44FB-BD2A-772CA79253A4-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-50@2x.png build/emulator/Polla\ Mundialista.app/icon-50@2x.png
+s421280800.952226
+e421280800.953428
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-50@2x.png
+xbuild/emulator/Polla Mundialista.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/Polla Mundialista.app/icon-50@2x.png121"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-50@2x.png build/emulator/Polla\ Mundialista.app/icon-50@2x.png3ae7f3203c1cb941^4014f4203c1cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-50@2x.png0034d8a3deffdf42^716"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-50@2x.png build/emulator/Polla\ Mundialista.app/icon-50@2x.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-50@2x.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"5980D74A-5EFF-46DE-AE48-A338DFB9D47F-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-60.png build/emulator/Polla\ Mundialista.app/icon-60.png
+s421280800.950360
+e421280800.951712
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-60.png
+xbuild/emulator/Polla Mundialista.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/Polla Mundialista.app/icon-60.png115"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-60.png build/emulator/Polla\ Mundialista.app/icon-60.png255df3203c1cb941^e3a5f3203c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-60.png0034d8a3deffdf42^707"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-60.png build/emulator/Polla\ Mundialista.app/icon-60.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-60.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"661E9D3C-AF91-4879-92EC-0E4709196CAB-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-60@2x.png build/emulator/Polla\ Mundialista.app/icon-60@2x.png
+s421280800.943666
+e421280800.945513
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-60@2x.png
+xbuild/emulator/Polla Mundialista.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/Polla Mundialista.app/icon-60@2x.png121"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-60@2x.png build/emulator/Polla\ Mundialista.app/icon-60@2x.png73b9f1203c1cb941^5321f2203c1cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-60@2x.png0034d8a3deffdf42^716"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-60@2x.png build/emulator/Polla\ Mundialista.app/icon-60@2x.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-60@2x.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"E216B30C-4057-4E2E-BCC7-29C6ED7537F1-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-72.png build/emulator/Polla\ Mundialista.app/icon-72.png
+s421280800.939665
+e421280800.940719
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-72.png
+xbuild/emulator/Polla Mundialista.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/Polla Mundialista.app/icon-72.png115"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-72.png build/emulator/Polla\ Mundialista.app/icon-72.pngb2a0f0203c1cb941^c9e4f0203c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-72.png0034d8a3deffdf42^707"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-72.png build/emulator/Polla\ Mundialista.app/icon-72.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-72.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"811EEEEA-9620-48AE-A12C-3A17BD49E3A9-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-72@2x.png build/emulator/Polla\ Mundialista.app/icon-72@2x.png
+s421280800.953349
+e421280800.954312
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-72@2x.png
+xbuild/emulator/Polla Mundialista.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/Polla Mundialista.app/icon-72@2x.png121"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-72@2x.png build/emulator/Polla\ Mundialista.app/icon-72@2x.png4626f4203c1cb941^6e4ff4203c1cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-72@2x.png0034d8a3deffdf42^716"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-72@2x.png build/emulator/Polla\ Mundialista.app/icon-72@2x.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-72@2x.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"B0D918B3-B8F9-4371-8385-042B49FC661D-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-76.png build/emulator/Polla\ Mundialista.app/icon-76.png
+s421280800.938946
+e421280800.940369
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-76.png
+xbuild/emulator/Polla Mundialista.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/Polla Mundialista.app/icon-76.png115"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-76.png build/emulator/Polla\ Mundialista.app/icon-76.png266ff0203c1cb941^d4bbf0203c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-76.png0034d8a3deffdf42^707"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-76.png build/emulator/Polla\ Mundialista.app/icon-76.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-76.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"025B0921-0A28-4E79-810F-1274D6FB0C43-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-76@2x.png build/emulator/Polla\ Mundialista.app/icon-76@2x.png
+s421280800.952573
+e421280800.953775
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-76@2x.png
+xbuild/emulator/Polla Mundialista.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/Polla Mundialista.app/icon-76@2x.png121"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-76@2x.png build/emulator/Polla\ Mundialista.app/icon-76@2x.png23f4f3203c1cb941^ed2af4203c1cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-76@2x.png0034d8a3deffdf42^716"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-76@2x.png build/emulator/Polla\ Mundialista.app/icon-76@2x.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-76@2x.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"C3CA2068-1D73-48CF-B3EB-C80773CDB8B0-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-small.png build/emulator/Polla\ Mundialista.app/icon-small.png
+s421280800.944551
+e421280800.945957
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-small.png
+xbuild/emulator/Polla Mundialista.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/Polla Mundialista.app/icon-small.png121"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-small.png build/emulator/Polla\ Mundialista.app/icon-small.png87dff1203c1cb941^1c41f2203c1cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-small.png0034d8a3deffdf42^716"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-small.png build/emulator/Polla\ Mundialista.app/icon-small.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-small.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"F01E0ED3-873F-49C1-A604-470B59EB0FC8-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon-small@2x.png build/emulator/Polla\ Mundialista.app/icon-small@2x.png
+s421280800.948119
+e421280800.949424
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon-small@2x.png
+xbuild/emulator/Polla Mundialista.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/emulator/Polla Mundialista.app/icon-small@2x.png127"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-small@2x.png build/emulator/Polla\ Mundialista.app/icon-small@2x.pngdcdaf2203c1cb941^170ff3203c1cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon-small@2x.png0034d8a3deffdf42^725"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon-small@2x.png build/emulator/Polla\ Mundialista.app/icon-small@2x.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon-small@2x.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"261AD545-5E70-41A6-9310-ACA8E397BF81-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon.png build/emulator/Polla\ Mundialista.app/icon.png
+s421280800.940144
+e421280800.941298
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon.png
+xbuild/emulator/Polla Mundialista.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/emulator/Polla Mundialista.app/icon.png109"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon.png build/emulator/Polla\ Mundialista.app/icon.png94c2f0203c1cb941^0e13f1203c1cb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon.png0034d8a3deffdf42^698"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon.png build/emulator/Polla\ Mundialista.app/icon.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"11BADB7F-0FC9-4EB7-9F65-A88EC56953D4-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/icons/icon@2x.png build/emulator/Polla\ Mundialista.app/icon@2x.png
+s421280800.940689
+e421280800.943031
+r1
+xCpResource
+xPolla Mundialista/Resources/icons/icon@2x.png
+xbuild/emulator/Polla Mundialista.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/Polla Mundialista.app/icon@2x.png115"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon@2x.png build/emulator/Polla\ Mundialista.app/icon@2x.png8cf2f0203c1cb941^fb5cf1203c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/icon@2x.png0034d8a3deffdf42^707"[1mCpResource[0m Polla\ Mundialista/Resources/icons/icon@2x.png build/emulator/Polla\ Mundialista.app/icon@2x.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/icons/icon@2x.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"85FA66F0-8A12-4430-A870-DC53459360F8-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/splash/Default-568h@2x~iphone.png build/emulator/Polla\ Mundialista.app/Default-568h@2x~iphone.png
+s421280800.951873
+e421280800.953094
+r1
+xCpResource
+xPolla Mundialista/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/Polla Mundialista.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/emulator/Polla Mundialista.app/Default-568h@2x~iphone.png146"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-568h@2x~iphone.png build/emulator/Polla\ Mundialista.app/Default-568h@2x~iphone.png68cdf3203c1cb941^cefff3203c1cb941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/Default-568h@2x~iphone.png0034d8a3deffdf42^754"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-568h@2x~iphone.png build/emulator/Polla\ Mundialista.app/Default-568h@2x~iphone.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/splash/Default-568h@2x~iphone.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"AC825726-B4CA-402B-9A96-8DF9EBFE2C9A-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Polla\ Mundialista.app/Default-Landscape@2x~ipad.png
+s421280800.945975
+e421280800.948086
+r1
+xCpResource
+xPolla Mundialista/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/Polla Mundialista.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/emulator/Polla Mundialista.app/Default-Landscape@2x~ipad.png152"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Polla\ Mundialista.app/Default-Landscape@2x~ipad.pngdc4bf2203c1cb941^d8b8f2203c1cb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/Default-Landscape@2x~ipad.png0034d8a3deffdf42^763"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Polla\ Mundialista.app/Default-Landscape@2x~ipad.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/splash/Default-Landscape@2x~ipad.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"468719B9-7BE4-4752-ADD9-6EBADFBE9AA9-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/splash/Default-Landscape~ipad.png build/emulator/Polla\ Mundialista.app/Default-Landscape~ipad.png
+s421280800.946145
+e421280800.947797
+r1
+xCpResource
+xPolla Mundialista/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/Polla Mundialista.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/emulator/Polla Mundialista.app/Default-Landscape~ipad.png146"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-Landscape~ipad.png build/emulator/Polla\ Mundialista.app/Default-Landscape~ipad.pngfd4bf2203c1cb941^cfa3f2203c1cb941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/Default-Landscape~ipad.png0034d8a3deffdf42^754"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-Landscape~ipad.png build/emulator/Polla\ Mundialista.app/Default-Landscape~ipad.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/splash/Default-Landscape~ipad.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"25B0A1A6-4B4B-41C0-9ECF-8E0F2EA46B16-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Polla\ Mundialista.app/Default-Portrait@2x~ipad.png
+s421280800.946731
+e421280800.948129
+r1
+xCpResource
+xPolla Mundialista/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/Polla Mundialista.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/emulator/Polla Mundialista.app/Default-Portrait@2x~ipad.png150"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Polla\ Mundialista.app/Default-Portrait@2x~ipad.png506ff2203c1cb941^12bff2203c1cb941^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/Default-Portrait@2x~ipad.png0034d8a3deffdf42^760"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Polla\ Mundialista.app/Default-Portrait@2x~ipad.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/splash/Default-Portrait@2x~ipad.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"3C0110FF-13A4-4ADF-BC95-8AB0034CCD9E-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/splash/Default-Portrait~ipad.png build/emulator/Polla\ Mundialista.app/Default-Portrait~ipad.png
+s421280800.948342
+e421280800.949830
+r1
+xCpResource
+xPolla Mundialista/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/Polla Mundialista.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/emulator/Polla Mundialista.app/Default-Portrait~ipad.png144"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-Portrait~ipad.png build/emulator/Polla\ Mundialista.app/Default-Portrait~ipad.png40dbf2203c1cb941^5038f3203c1cb941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/Default-Portrait~ipad.png0034d8a3deffdf42^751"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default-Portrait~ipad.png build/emulator/Polla\ Mundialista.app/Default-Portrait~ipad.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/splash/Default-Portrait~ipad.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"AA056451-F725-4A5E-B2C8-080610C738B6-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/splash/Default@2x~iphone.png build/emulator/Polla\ Mundialista.app/Default@2x~iphone.png
+s421280800.950121
+e421280800.951726
+r1
+xCpResource
+xPolla Mundialista/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/Polla Mundialista.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/Polla Mundialista.app/Default@2x~iphone.png136"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default@2x~iphone.png build/emulator/Polla\ Mundialista.app/Default@2x~iphone.pngfa5ef3203c1cb941^f9bbf3203c1cb941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/Default@2x~iphone.png0034d8a3deffdf42^739"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default@2x~iphone.png build/emulator/Polla\ Mundialista.app/Default@2x~iphone.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/splash/Default@2x~iphone.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"FD4926A0-7D51-48EB-96C2-8D9B9C7003A0-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CCpResource Polla\ Mundialista/Resources/splash/Default~iphone.png build/emulator/Polla\ Mundialista.app/Default~iphone.png
+s421280800.950739
+e421280800.952027
+r1
+xCpResource
+xPolla Mundialista/Resources/splash/Default~iphone.png
+xbuild/emulator/Polla Mundialista.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/Polla Mundialista.app/Default~iphone.png130"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default~iphone.png build/emulator/Polla\ Mundialista.app/Default~iphone.png297bf3203c1cb941^4dc0f3203c1cb941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app/Default~iphone.png0034d8a3deffdf42^730"[1mCpResource[0m Polla\ Mundialista/Resources/splash/Default~iphone.png build/emulator/Polla\ Mundialista.app/Default~iphone.png    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Resources/splash/Default~iphone.png /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"355559AC-1F7A-4776-9152-6A787BAADC64-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CGenerateDSYMFile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app.dSYM /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Polla\ Mundialista
+s421352279.696534
+e421352279.791460
+r1
+xGenerateDSYMFile
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app.dSYM
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Polla Mundialista
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Generate /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app.dSYM132"[1mGenerateDSYMFile[0m [1mbuild/emulator/Polla\ Mundialista.app.dSYM[0m build/emulator/Polla\ Mundialista.app/Polla\ Mundialista2063b257531db941^349cca57531db941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla%20Mundialista.app.dSYM/0000000000000000^730"[1mGenerateDSYMFile[0m [1mbuild/emulator/Polla\ Mundialista.app.dSYM[0m build/emulator/Polla\ Mundialista.app/Polla\ Mundialista    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Polla\ Mundialista -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app.dSYM36"EE4AFAC3-933E-49E5-9802-582BA5B7703B-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CLd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Polla\ Mundialista normal i386
+s421352278.190345
+e421352279.695341
+r1
+xLd
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Polla Mundialista
+xnormal
+xi386
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/Polla Mundialista.LinkFileList
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/main.o
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/AppDelegate.o
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/MainViewController.o
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVConnection.o
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVReachability.o
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Objects-normal/i386/CDVInAppBrowser.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Polla Mundialista79"[1mLd[0m build/emulator/Polla\ Mundialista.app/Polla\ Mundialista normal i38617d33056531db941^1002b257531db941^---0#0#1#--1916"[1mLd[0m build/emulator/Polla\ Mundialista.app/Polla\ Mundialista normal i386    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -filelist /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/Polla\ Mundialista.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework AssetsLibrary /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -weak_framework SystemConfiguration -Xlinker -dependency_info -Xlinker /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Objects-normal/i386/Polla\ Mundialista_dependency_info.dat -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Polla\ Mundialista36"EF35DF78-E998-461F-A4F9-6586A5638600-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CPhaseScriptExecution Copy\ www\ directory /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Script-304B58A110DAC018002A0835.sh
+s421352257.218986
+e421352258.517393
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla Mundialista.build/Debug-iphonesimulator/Polla Mundialista.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m1.186s
+ouser	0m0.210s
+osys	0m0.353s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'162"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Script-304B58A110DAC018002A0835.sh187a3841531db941^5b7a8442531db941^-42"real	0m1.186suser	0m0.210ssys	0m0.353s3(21%IDEActivityLogMessage2@14"real	0m1.186s-421352258#1#14#-0#-----2@14"user	0m0.210s-421352258#15#14#-0#-----2@13"sys	0m0.353s-421352258#29#13#-0#-----0#0#1#--420"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Script-304B58A110DAC018002A0835.sh    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    /bin/sh -c \"/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Script-304B58A110DAC018002A0835.sh\"36"4BBFC3C8-95E9-4DD4-9C73-F695918CF9E4-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CProcessInfoPlistFile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Info.plist /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Polla\ Mundialista-Info.plist
+s421352257.187483
+e421352257.216679
+r1
+xProcessInfoPlistFile
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app/Info.plist
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Process /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Info.plist134"[1mProcessInfoPlistFile[0m build/emulator/Polla\ Mundialista.app/Info.plist [1mPolla\ Mundialista/Polla\ Mundialista-Info.plist[0mec2e3041531db941^d9793741531db941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Polla%20Mundialista-Info.plist0000000000000000^838"[1mProcessInfoPlistFile[0m build/emulator/Polla\ Mundialista.app/Info.plist [1mPolla\ Mundialista/Polla\ Mundialista-Info.plist[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Polla\ Mundialista-Info.plist -genpkginfo /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app/Info.plist36"B35197BD-E2D6-4FCB-AE4E-317783ACA4A2-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CProcessPCH /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-fssxryukbzsmzgdppizjwrivrber/Polla\ Mundialista-Prefix.pch.pch Polla\ Mundialista/Polla\ Mundialista-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280802.095841
+e421280802.574951
+r1
+xProcessPCH
+x/var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla Mundialista-Prefix-fssxryukbzsmzgdppizjwrivrber/Polla Mundialista-Prefix.pch.pch
+xPolla Mundialista/Polla Mundialista-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile Polla Mundialista/Polla Mundialista-Prefix.pch342"[1mProcessPCH[0m /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-fssxryukbzsmzgdppizjwrivrber/Polla\ Mundialista-Prefix.pch.pch Polla\ Mundialista/Polla\ Mundialista-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5da418223c1cb941^663393223c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Polla%20Mundialista-Prefix.pch0000000000000000^4152"[1mProcessPCH[0m /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-fssxryukbzsmzgdppizjwrivrber/Polla\ Mundialista-Prefix.pch.pch Polla\ Mundialista/Polla\ Mundialista-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/usr/local/lib/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/UninstalledProducts/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator --serialize-diagnostics /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-fssxryukbzsmzgdppizjwrivrber/Polla\ Mundialista-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-fssxryukbzsmzgdppizjwrivrber/Polla\ Mundialista-Prefix.pch.d -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Polla\ Mundialista-Prefix.pch -o /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-fssxryukbzsmzgdppizjwrivrber/Polla\ Mundialista-Prefix.pch.pch36"9FDB183B-7022-4134-A43B-BB01B15F3271-
+b470D7917-3FB1-4F34-8AA1-93CB32DDA593
+
+CProcessPCH /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch.pch Polla\ Mundialista/Polla\ Mundialista-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421352271.140299
+e421352277.077632
+r1
+xProcessPCH
+x/var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla Mundialista-Prefix.pch.pch
+xPolla Mundialista/Polla Mundialista-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla Mundialista/Polla Mundialista-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile Polla Mundialista/Polla Mundialista-Prefix.pch342"[1mProcessPCH[0m /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch.pch Polla\ Mundialista/Polla\ Mundialista-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6500244f531db941^b9e11355531db941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla%20Mundialista/Polla%20Mundialista-Prefix.pch0000000000000000^4152"[1mProcessPCH[0m /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch.pch Polla\ Mundialista/Polla\ Mundialista-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/Polla\ Mundialista-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/usr/local/lib/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/UninstalledProducts/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/Polla\ Mundialista.build/Debug-iphonesimulator/Polla\ Mundialista.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator --serialize-diagnostics /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch.d -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/Polla\ Mundialista/Polla\ Mundialista-Prefix.pch -o /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Polla\ Mundialista-Prefix-hhzouocaatcavienipihkfiuzuvw/Polla\ Mundialista-Prefix.pch.pch36"C68EC521-369B-4199-B2DE-E4CA144221B5-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+
+CTouch /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app
+s421352279.792324
+e421352279.810351
+r1
+xTouch
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla Mundialista.app51"[1mTouch[0m build/emulator/Polla\ Mundialista.app33e2ca57531db941^a775cf57531db941^---0#0#1#--447"[1mTouch[0m build/emulator/Polla\ Mundialista.app    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/Polla\ Mundialista.app36"FE806900-2C58-43D2-9B3D-19F43B330E41-
+bBABDB6A1-41B4-452C-BBBC-CFC5810E1B5A
+

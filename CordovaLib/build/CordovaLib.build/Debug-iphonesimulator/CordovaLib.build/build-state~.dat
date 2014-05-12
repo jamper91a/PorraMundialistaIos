@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005348247D0000000000000198
+t1397236861
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533E283000000000000003B4
+t1396582448
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533E2837000000000000019E
+t1396582455
+s414
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDV.h
+c00000000536C048D0000000000000516
+t1399587981
+s1302
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c00000000536C048D0000000000000CFB
+t1399587981
+s3323
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c00000000536C048D00000000000008BA
+t1399587981
+s2234
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c00000000536C048D00000000000004E2
+t1399587981
+s1250
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c00000000536C048D000000000000183A
+t1399587981
+s6202
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c00000000536C048D0000000000000503
+t1399587981
+s1283
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c00000000536C048D0000000000001ED0
+t1399587981
+s7888
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c00000000536C048D00000000000004CB
+t1399587981
+s1227
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c00000000536C048D0000000000000EBF
+t1399587981
+s3775
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c00000000536C048D0000000000000401
+t1399587981
+s1025
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c00000000536C048D00000000000007E6
+t1399587981
+s2022
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c00000000536C048D0000000000000DDE
+t1399587981
+s3550
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c00000000536C048D00000000000003DA
+t1399587981
+s986
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c00000000536C048D00000000000009A1
+t1399587981
+s2465
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c00000000536C048D00000000000006CF
+t1399587981
+s1743
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c00000000536C048D0000000000004C7E
+t1399587981
+s19582
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c00000000536C048D0000000000000892
+t1399587981
+s2194
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c00000000536C048D00000000000016AE
+t1399587981
+s5806
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c00000000536C048D0000000000000C13
+t1399587981
+s3091
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c00000000536C048D0000000000001B29
+t1399587981
+s6953
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c00000000536C048D0000000000000408
+t1399587981
+s1032
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.h
+c00000000536C048D00000000000003E6
+t1399587981
+s998
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.m
+c00000000536C048D00000000000006BD
+t1399587981
+s1725
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c00000000536C048D000000000000038D
+t1399587981
+s909
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c00000000536C048D0000000000000AA2
+t1399587981
+s2722
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c00000000536C048D000000000000041C
+t1399587981
+s1052
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c00000000536C048D000000000000259E
+t1399587981
+s9630
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c00000000536C048D0000000000000421
+t1399587981
+s1057
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c00000000536C048D0000000000001361
+t1399587981
+s4961
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c00000000536C048D0000000000000ACC
+t1399587981
+s2764
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c00000000536C048D0000000000008FD2
+t1399587981
+s36818
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c00000000536C048D00000000000005A2
+t1399587981
+s1442
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c00000000536C048D0000000000003795
+t1399587981
+s14229
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c00000000536C048D00000000000004B4
+t1399587981
+s1204
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c00000000536C048D0000000000002814
+t1399587981
+s10260
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c00000000536C048D0000000000000392
+t1399587981
+s914
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c00000000536C048D00000000000004D8
+t1399587981
+s1240
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c00000000536C048D000000000000037D
+t1399587981
+s893
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c00000000536C048D00000000000022CC
+t1399587981
+s8908
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c00000000536C048D00000000000005DA
+t1399587981
+s1498
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c00000000536C048D0000000000001059
+t1399587981
+s4185
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c00000000536C048D00000000000003A0
+t1399587981
+s928
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c00000000536C048D0000000000000584
+t1399587981
+s1412
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c00000000536C048D0000000000000476
+t1399587981
+s1142
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c00000000536C048D0000000000000620
+t1399587981
+s1568
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c00000000536C048D0000000000000346
+t1399587981
+s838
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1399588000
+s64920
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1399588000
+s61412
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1399588000
+s27472
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1399587999
+s18256
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1399588000
+s10584
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1399588000
+s106356
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1399587999
+s57128
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1399587999
+s36648
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1399588000
+s9056
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1399588000
+s22616
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1399588000
+s68896
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1399588000
+s50784
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1399588000
+s162968
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1399588000
+s67908
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1399587999
+s42412
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c00000000536C049F0000000000000D57
+t1399587999
+s3415
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1399588000
+s7228
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1399587999
+s10924
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1399587999
+s17344
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1399587999
+s6788
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1399588000
+s9212
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.pch
+t1399587999
+s3241924
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies26ff6f1f3c1cb941^728b811f3c1cb941^---0#1#1#--18"Check dependencies36"7C86BE5B-0EDE-4D59-A619-D922EBB07DD0-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.116506
+e421280800.353580
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m232"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5b231e203c1cb941^38845a203c1cb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3889"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"7620BEE7-B0F5-4E6A-9735-EE9FD24AB0EC-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.115140
+e421280800.369296
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler26a81d203c1cb941^07d15e203c1cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"D8F55652-DAA3-4242-A61E-841A80336155-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.223602
+e421280800.272285
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerab5f39203c1cb941^1ae145203c1cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"50D9ECEF-E83C-490A-A7B7-3F078DFC5325-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.711371
+e421280799.755585
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m228"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8254b61f3c1cb941^c0edc11f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3877"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"FDFE1A9E-0DDF-4C00-A9EB-5FA096B200F6-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.236471
+e421280800.270942
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.m202"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere0f23c203c1cb941^6aa445203c1cb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3799"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"C80CBEB4-E405-49B0-A6F6-2B6C4F865FC2-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.841483
+e421280800.115868
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler698fd71f3c1cb941^03b01d203c1cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"A76AAE71-D629-4E11-9B2D-F9E1543D6ECD-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.750985
+e421280799.992578
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5169c01f3c1cb941^e71afe1f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3811"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"639A0AB3-F3CA-4F36-909A-B3DAFACF731D-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.712896
+e421280799.778003
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd8bcb61f3c1cb941^6edfc71f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3847"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"C21BCC14-2608-46F8-913F-E8C670F93951-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.369715
+e421280800.411212
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler65c75e203c1cb941^744569203c1cb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3811"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"5D5D479B-1864-47A3-B1C7-62C234B9C148-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.353871
+e421280800.402576
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.m204"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler02bb5a203c1cb941^ea2467203c1cb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3805"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"E593FBF7-4348-4162-94C3-CB95AD91C0DA-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.778331
+e421280800.042256
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m216"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera662c71f3c1cb941^5bd10a203c1cb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3841"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"A1BB270D-B87D-4527-852D-FD78156826E0-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.271292
+e421280800.469766
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m220"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler299445203c1cb941^b74278203c1cb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3853"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"A43B826F-7C44-4EB1-98A5-70AF6D8A408A-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.786404
+e421280800.236101
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.m222"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera67bc91f3c1cb941^b2663c203c1cb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3859"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"3515ED81-4154-4FFB-8A40-84ACF2B8A417-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.272592
+e421280800.480539
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m224"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2fc45203c1cb941^92067b203c1cb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3865"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"EE84DAC5-DFC0-4BF3-BD2E-6036B6DA60BE-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.756925
+e421280799.840627
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.m212"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5b23c21f3c1cb941^3546d71f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3829"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"5C43545D-0BE4-4FF3-91FC-D59DCA8F4C55-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280800.042639
+e421280800.114808
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler433b0b203c1cb941^dc631d203c1cb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3871"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"8A320086-3687-4FCB-9FA9-906AC02B97AC-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.711823
+e421280799.750636
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.m214"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdb6eb61f3c1cb941^3673c01f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3835"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"1F5B5E4A-56E8-4B3A-83A9-AE41D29CA7DC-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.711057
+e421280799.753467
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m234"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercc28b61f3c1cb941^c826c11f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3895"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"ADB04E0A-F86B-423C-AB99-6047502F2207-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.753802
+e421280799.786108
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m246"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e1bc11f3c1cb941^fa9ac91f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3931"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"5A9B3FFB-0711-42E1-964B-F05645C51D76-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.993559
+e421280800.223311
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f7ffe1f3c1cb941^0a2b39203c1cb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3871"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG -include /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"13A0ECA9-01C3-4315-A33B-D13A9D3C629C-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDV.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDV.h
+s421280799.517476
+e421280799.519271
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDV.h134"[1mCpHeader[0m Classes/CDV.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDV.h[0mf88c841f3c1cb941^76e0841f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDV.h0034d8a3deffdf42^708"[1mCpHeader[0m Classes/CDV.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDV.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDV.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"CA02BF30-58DF-4BD6-B91E-13A9BCE17D12-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVAvailability.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s421280799.518154
+e421280799.519980
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h158"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m01bd841f3c1cb941^0a4a851f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h0034d8a3deffdf42^744"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"A2964FD4-7DE5-4D8B-BEE0-45B9873732F1-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s421280799.517263
+e421280799.519522
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h164"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0mfe9a841f3c1cb941^942e851f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h0034d8a3deffdf42^753"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"2B52C3C9-3256-4B7D-9DAA-C4472AE0AE98-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s421280799.521743
+e421280799.523464
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h172"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m0cae851f3c1cb941^4e45861f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h0034d8a3deffdf42^765"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"AAA252AF-6B4D-47DD-BC8A-43BEB093C9DA-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVCommandQueue.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s421280799.520381
+e421280799.522049
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h158"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m785f851f3c1cb941^cec3851f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h0034d8a3deffdf42^744"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"E724F4E9-8FF5-4428-997E-D487BDBABED5-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVConfigParser.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s421280799.523472
+e421280799.525112
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h158"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m931e861f3c1cb941^5bd1861f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h0034d8a3deffdf42^744"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"A73EDF35-74C2-458E-ACA1-4AFE665AEB83-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVDebug.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s421280799.512281
+e421280799.514703
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVDebug.h144"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m0a48831f3c1cb941^01be831f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVDebug.h0034d8a3deffdf42^723"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"5EB20EFE-B4DC-4CD3-ADEB-46737A8E82AF-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s421280799.508893
+e421280799.511332
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h168"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0mf069821f3c1cb941^d7f6821f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h0034d8a3deffdf42^759"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"34FEC07E-8BD4-4C7F-A20E-3E47C400123E-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVJSON.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s421280799.524299
+e421280799.525721
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h142"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m124b861f3c1cb941^e1f0861f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h0034d8a3deffdf42^720"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"7728E9BF-64DC-4AFC-A9D1-46B6009F7A88-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVLocalStorage.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s421280799.518721
+e421280799.520413
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h158"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m8fde841f3c1cb941^db50851f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h0034d8a3deffdf42^744"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"0C985894-299F-4CEA-829F-B93F7141CB47-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVPlugin.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s421280799.511731
+e421280799.515535
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h146"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m9a3e831f3c1cb941^87fc831f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h0034d8a3deffdf42^726"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"1895D786-282E-4626-8998-AD9B985956E2-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVPluginResult.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s421280799.510168
+e421280799.511812
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h158"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m91b9821f3c1cb941^e431831f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h0034d8a3deffdf42^744"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"DDD963D8-F991-4C32-9745-18AA8B5174BC-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s421280799.523061
+e421280799.524889
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h184"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m8e1f861f3c1cb941^12a0861f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h0034d8a3deffdf42^783"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"3196403A-86C5-4023-B302-F030F06C6EF9-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVShared.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s421280799.522314
+e421280799.523529
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVShared.h146"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0mdac8851f3c1cb941^a27f861f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVShared.h0034d8a3deffdf42^726"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"ACB50ED0-8EA4-4230-8D55-EDF30ED2C54B-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVTimer.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s421280799.526679
+e421280799.527766
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVTimer.h144"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m20ee861f3c1cb941^732c871f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVTimer.h0034d8a3deffdf42^723"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"8553CCBD-C2AA-4B99-B3B5-D243B0706902-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVURLProtocol.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s421280799.515447
+e421280799.516935
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h156"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0ma019841f3c1cb941^7958841f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h0034d8a3deffdf42^741"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"47A98260-7E5F-4F02-8E0C-F24C2579755E-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s421280799.525767
+e421280799.526726
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h160"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m75b0861f3c1cb941^e71d871f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h0034d8a3deffdf42^747"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"5D3C86B6-5E4F-4B10-A51C-55DA4A3968FA-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVViewController.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s421280799.516345
+e421280799.517583
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h162"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m9642841f3c1cb941^fb93841f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h0034d8a3deffdf42^750"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"4147FD95-8A8D-4444-A915-961031460E17-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s421280799.525042
+e421280799.526496
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h164"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m9d84861f3c1cb941^0b0a871f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h0034d8a3deffdf42^753"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"6623E893-C5D2-4BAA-B3A1-A462805C4D9E-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/CDVWhitelist.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s421280799.514111
+e421280799.516428
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h152"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0mace4831f3c1cb941^5e4b841f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h0034d8a3deffdf42^735"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"3FAB7FEF-B23D-4E8B-9190-E861D39D5AE1-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s421280799.519676
+e421280799.521842
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h166"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0md124851f3c1cb941^b6a2851f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h0034d8a3deffdf42^756"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"2E41FB5E-C46E-4103-B821-589D8F75E25B-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/NSData+Base64.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s421280799.509472
+e421280799.511742
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h154"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0md28f821f3c1cb941^e50a831f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h0034d8a3deffdf42^738"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"70AC7B7C-B344-4E13-A2A1-B31A7CEF0678-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s421280799.508709
+e421280799.511696
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h174"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0mcf65821f3c1cb941^c003831f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h0034d8a3deffdf42^768"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"A274493A-8F0B-4317-9114-2BC4A9F59AB1-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s421280799.512918
+e421280799.515622
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h186"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m397f831f3c1cb941^4a0a841f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h0034d8a3deffdf42^786"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"B4193C1F-AA1E-4B01-938D-0705C0E07A0D-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s421280799.519506
+e421280799.523060
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h166"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0me469851f3c1cb941^1c07861f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h0034d8a3deffdf42^756"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include/Cordova36"1358069C-ADA3-4DDB-9CBE-F512FD314E3B-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CLibtool /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a normal i386
+s421280800.482173
+e421280800.495305
+r1
+xLibtool
+x/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"[1mLibtool[0m /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a normal i386114"[1mLibtool[0m /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a normal i38602807b203c1cb941^f7cc7e203c1cb941^---0#0#1#--1044"[1mLibtool[0m /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -filelist /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/libCordova.a36"7EDEA078-A5E4-4983-B664-15696DC1E542-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
+CProcessPCH /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421280799.528822
+e421280799.710030
+r1
+xProcessPCH
+x/var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch299"[1mProcessPCH[0m /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler577c871f3c1cb941^f3c6b51f3c1cb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3794"[1mProcessPCH[0m /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/tecnologia/Documents/PollaMundialista/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.d -c /Users/tecnologia/Documents/PollaMundialista/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/cq/5jyqvy195r3032ks60hdwhb00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-crkjaeebkxlmnmejxnlhlywhcjxs/CordovaLib_Prefix.pch.pch36"1BB684AF-3240-4BB8-8BED-11CB7EA685A0-
+b8C3FD613-FAD6-490A-9B56-06A430FA79E4
+
